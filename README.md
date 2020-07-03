@@ -78,6 +78,7 @@ All countries belong to the EU.
 - Spain
 - Sweden
 - United Kingdom
+
 ###Country analysis: Selected country
 Depending on the country we analyze, the type of work and lifestyle of people. You can filter by country only or view global data.
 You can see the data on the screen or download a csv. 
