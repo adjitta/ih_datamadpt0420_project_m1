@@ -44,7 +44,7 @@ conda install Matplotlib
         ├── processed
         └── results
 ```
-###Country analysis :
+###  **Country analysis :**
 The following outputs will be available for you to download as a `.csv` 
 - Download the csv table with all the countries analysed and the representative percentage
 - Download the csv table with only one country analysed
@@ -79,7 +79,7 @@ All countries belong to the EU.
 - Sweden
 - United Kingdom
 
-###Country analysis: Selected country
+## **Country analysis: Selected country**
 Depending on the country we analyze, the type of work and lifestyle of people. You can filter by country only or view global data.
 You can see the data on the screen or download a csv. 
 
